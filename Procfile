@@ -1,0 +1,1 @@
+worker: python upwork_alert_bot.py
